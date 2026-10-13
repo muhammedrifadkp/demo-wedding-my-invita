@@ -1,0 +1,13 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Aisha & Zayan Weds//Invitation//EN
+BEGIN:VEVENT
+UID:aisha-zayan-nikah-20261227@wedding-invitation
+DTSTAMP:20261013T000000Z
+DTSTART:20261227T060000Z
+DTEND:20261227T090000Z
+SUMMARY:Wedding of Aisha & Zayan (Nikah 11:30 AM)
+LOCATION:The Grand Palace Auditorium\, Calicut\, Kerala
+DESCRIPTION:Nikah at 11:30 AM followed by reception.
+END:VEVENT
+END:VCALENDAR
